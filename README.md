@@ -27,6 +27,6 @@ The goal is to test various thresholding methods and parameters on different ima
 ## 📊 Sample Results
 The project comes with a  sample image. Use other images Run the script and check the extracted text for each. Compare the results when using different thresholding techniques to observe how they impact OCR accuracy.
 
-📖 Further Reading
+## 📖 Further Reading
 For more in-depth discussion on this project, check out my article on LinkedIn where I dive deeper into the technical aspects and provide additional insights:
 [check ut my linkedin profile here🎉](https://www.linkedin.com/posts/yassine-ouahmane-8a15b6238_optical-character-recognition-activity-7203762868456960000-odW8?utm_source=share&utm_medium=member_desktop)
