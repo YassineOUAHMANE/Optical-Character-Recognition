@@ -29,4 +29,4 @@ The project comes with a  sample image. Use other images Run the script and chec
 
 ## 📖 Further Reading
 For more in-depth discussion on this project, check out my article on LinkedIn where I dive deeper into the technical aspects and provide additional insights:
-[check ut my linkedin profile here🎉](https://www.linkedin.com/posts/yassine-ouahmane-8a15b6238_optical-character-recognition-activity-7203762868456960000-odW8?utm_source=share&utm_medium=member_desktop)
+[check out my linkedin profile here🎉](https://www.linkedin.com/posts/yassine-ouahmane-8a15b6238_optical-character-recognition-activity-7203762868456960000-odW8?utm_source=share&utm_medium=member_desktop)
